@@ -97,7 +97,7 @@ function renderDestinations() {
                 </div>
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;">
                     <span style="font-weight: 700; color: var(--primary); font-size: 1.1rem;">${dest.price}</span>
-                    <a href="#book-${dest.id}" class="btn btn-outline" style="color: var(--secondary); border-color: var(--secondary); padding: 0.5rem 1rem; font-size: 0.9rem;">View Details</a>
+                    <a href="https://wa.me/919876543210?text=I%27m%20interested%20in%20${encodeURIComponent(dest.title)}%20trip." target="_blank" class="btn btn-outline" style="color: var(--secondary); border-color: var(--secondary); padding: 0.5rem 1rem; font-size: 0.9rem;">View Details</a>
                 </div>
             </div>
         </article>
@@ -128,7 +128,7 @@ function renderPackages() {
                         <span class="price-label">Starting from</span>
                         <span class="price-amount">${pkg.price}</span>
                     </div>
-                    <a href="#book-pkg-${pkg.id}" class="btn btn-primary" style="padding: 0.5rem 1rem; font-size: 0.9rem;">Book Now</a>
+                    <a href="https://wa.me/919876543210?text=I%20want%20to%20book%20${encodeURIComponent(pkg.title)}%20package." target="_blank" class="btn btn-primary" style="padding: 0.5rem 1rem; font-size: 0.9rem;">Book Now</a>
                 </div>
             </div>
         </article>

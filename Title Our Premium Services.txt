@@ -1,0 +1,115 @@
+Title: Our Premium Services
+1. Hero Section (Top Banner)
+
+Heading: Premium Travel & Consultancy Services
+Sub-text: Luxury Taxi • Self-Drive Cars • Forex • Visa • Flight Tickets
+Button: Book Now | Contact Us
+
+2. Section: Luxury Taxi Services
+Heading: Luxury Taxi – Comfortable & Reliable Travel
+
+Description:
+We provide high-quality taxi services for personal, business, and group travel.
+Choose from premium sedans to large luxury vehicles.
+
+Sub-Services:
+
+Standard Luxury Taxi (Sedan / SUV)
+
+Aurbani Cars
+
+16-Seater Luxury Van
+
+20-Seater Luxury Van
+
+Airport Pick & Drop
+
+City & Outstation Rides
+
+CTA Button: Book Your Ride
+
+3. Section: Self-Drive Cars
+Heading: Self-Drive Car Rentals
+
+Description:
+Enjoy the freedom to drive on your own with our well-maintained, fully insured self-drive cars.
+
+Features:
+
+Wide range of cars
+
+Daily / Weekly / Monthly rental
+
+Affordable security deposit
+
+Easy pickup & drop
+
+CTA Button: Rent a Car
+
+4. Section: Forex Exchange Consultancy
+Heading: Expert Forex Exchange Consultancy
+
+Description:
+We offer professional guidance for currency exchange, ensuring the best rates and secure transactions.
+
+Highlights:
+
+Best exchange rates
+
+Fast processing
+
+Trusted consultants
+
+CTA Button: Get Forex Help
+
+5. Section: Visa Assistance
+Heading: Visa Services & Application Support
+
+Description:
+Full support for visa applications with updated documentation guidance.
+
+Includes:
+
+Tourist Visa
+
+Business Visa
+
+Family Visit Visa
+
+Document Checklist & Submission Support
+
+CTA Button: Apply for Visa
+
+6. Section: Flight Ticket Booking
+Heading: Flight Ticket Booking – Domestic & International
+
+Description:
+We book the best and most affordable flight tickets for your destination.
+
+Benefits:
+
+Lowest fares
+
+Multiple airline options
+
+24/7 support
+
+CTA Button: Book Your Flight
+
+7. Why Choose Us (Trust Section)
+
+24/7 Customer Support
+
+Professional Drivers & Advisors
+
+Transparent Pricing
+
+Fast Processing of All Services
+
+8. Contact Section
+Heading: Get In Touch
+
+Phone | WhatsApp:
+Email:
+Office Location:
+Buttons: Call Now | WhatsApp | Send Inquiry

@@ -190,6 +190,14 @@ img {
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--secondary);
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    max-height: 50px;
+    width: auto;
+    object-fit: contain;
 }
 
 .highlight {
@@ -276,7 +284,7 @@ img {
     min-height: 600px;
     display: flex;
     align-items: center;
-    background-image: url('../Screenshot_2025-12-10-23-40-19-35_680d03679600f7af0b4c700c6b270fe7.jpg');
+    background-image: url('../ram-mandir-hero.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

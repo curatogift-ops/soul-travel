@@ -128,6 +128,10 @@ img {
     -webkit-text-fill-color: transparent;
 }
 
+.text-orange {
+    color: #FF8800;
+}
+
 .text-center {
     text-align: center;
 }

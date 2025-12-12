@@ -750,6 +750,12 @@ img {
     margin-top: 2.5rem;
 }
 
+.social-links-centered {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
 .social-icon {
     width: 40px;
     height: 40px;

@@ -156,22 +156,6 @@ document.addEventListener('DOMContentLoaded', () => {
     if (window.lucide) {
         window.lucide.createIcons();
     }
-
-    // Form Handler
-    const inquiryForm = document.getElementById('inquiry-form');
-    if (inquiryForm) {
-        inquiryForm.addEventListener('submit', (e) => {
-            e.preventDefault();
-            const formData = new FormData(inquiryForm);
-            const data = Object.fromEntries(formData);
-
-            // Here you would typically send 'data' to your backend
-            console.log('Form Submitted:', data);
-
-            alert('Thank you for your inquiry! We will contact you shortly.');
-            inquiryForm.reset();
-        });
-    }
 });
 
 // Smooth Scroll for Anchor Links (Optional overlap with CSS smooth-scroll but good for older browsers)

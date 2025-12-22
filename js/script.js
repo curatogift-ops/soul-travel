@@ -8,6 +8,14 @@ const destinationsGrid = document.getElementById('destinations-grid');
 const destinations = [
     {
         id: 1,
+        title: "Magh Mela 2026",
+        image: "images/Magh-Mela-2026.webp",
+        days: "3 Days",
+        type: "Spiritual",
+        price: "₹20,000"
+    },
+    {
+        id: 2,
         title: "Varanasi (Kashi)",
         image: "varanasi.png",
         days: "3 Days",
@@ -15,7 +23,7 @@ const destinations = [
         price: "₹12,000"
     },
     {
-        id: 2,
+        id: 3,
         title: "Rishikesh & Haridwar",
         image: "reshikesh.png",
         days: "5 Days",
@@ -23,7 +31,7 @@ const destinations = [
         price: "₹15,000"
     },
     {
-        id: 3,
+        id: 4,
         title: "Kerala Backwaters",
         image: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?q=80&w=800&auto=format&fit=crop",
         days: "6 Days",
@@ -31,7 +39,7 @@ const destinations = [
         price: "₹22,000"
     },
     {
-        id: 4,
+        id: 5,
         title: "Jaipur & Udaipur",
         image: "https://images.unsplash.com/photo-1477587458883-47145ed94245?q=80&w=800&auto=format&fit=crop",
         days: "4 Days",
@@ -96,7 +104,7 @@ function renderDestinations() {
                     <span class="card-meta-item"><i data-lucide="map" class="w-4 h-4"></i> ${dest.type}</span>
                 </div>
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 1rem;">
-                    <span style="font-weight: 700; color: var(--primary); font-size: 1.1rem;">${dest.price}</span>
+                    <span style="font-weight: 700; color: var(--primary); font-size: 1.1rem;">${dest.price} <span style="display: inline-block; background: var(--secondary); color: white; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.75rem; margin-left: 0.5rem;">PP</span></span>
                     <a href="https://wa.me/919667370992?text=I%27m%20interested%20in%20${encodeURIComponent(dest.title)}%20trip." target="_blank" class="btn btn-outline" style="color: var(--secondary); border-color: var(--secondary); padding: 0.5rem 1rem; font-size: 0.9rem;">View Details</a>
                 </div>
             </div>
